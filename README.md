@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Devdun Fernando!
 
+A passionate Software Engineering student from Sri Lanka
+
 🎓 Software Engineering Student at IIT  
 💻 Backend Developer | Java | Kotlin | Spring Boot  
 🛠️ Passionate about building real-world apps  
