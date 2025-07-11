@@ -32,6 +32,13 @@
 
 ---
 
+### 📈 My GitHub Activity Graph
+
+[![Devdun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev12345103&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suralath-devdun-68b18b295)
