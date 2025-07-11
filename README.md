@@ -22,15 +22,11 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 ![Devdun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdunFernando&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdunFernando&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devdunFernando&theme=radical&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devdunFernando&color=blueviolet&style=flat-square&label=Profile+Views)
 
