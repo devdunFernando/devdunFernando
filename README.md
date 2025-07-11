@@ -28,8 +28,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdunFernando&layout=compact&theme=radical&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=devdunFernando&color=blueviolet&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
