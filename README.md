@@ -40,6 +40,12 @@
 
 ---
 
+### 📖 What I'm Reading
+- *Clean Code* by Robert C. Martin
+- *Effective Java* by Joshua Bloch
+- *Kotlin in Action* by Dmitry Jemerov & Svetlana Isakova
+
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suralath-devdun-68b18b295)
