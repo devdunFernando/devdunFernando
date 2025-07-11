@@ -34,7 +34,7 @@
 
 ### 📈 My GitHub Activity Graph
 
-[![Devdun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev12345103&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Devdun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devdunFernando&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
