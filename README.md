@@ -40,11 +40,6 @@
 
 ---
 
-### 📖 What I'm Reading
-- *Clean Code* by Robert C. Martin
-- *Effective Java* by Joshua Bloch
-- *Kotlin in Action* by Dmitry Jemerov & Svetlana Isakova
-
 
 ## 🔗 Connect with Me
 
