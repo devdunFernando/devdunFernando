@@ -22,11 +22,11 @@
 
 ## 📊 GitHub Stats
 
-![Devdun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev12345103&show_icons=true&theme=radical)
+![Devdun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdunFernando&show_icons=true&theme=radical)
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev12345103)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suralath-devdun-68b18b295)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devdunFernando)
