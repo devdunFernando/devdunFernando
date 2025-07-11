@@ -41,18 +41,14 @@
 ---
 
 
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suralath-devdun-68b18b295)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devdunFernando)
 
 
-
 ---
 
 
-
 ⭐️ From [devdunFernando](https://github.com/devdunFernando)
-
 
