@@ -6,7 +6,6 @@ A passionate Software Engineering undergraduate
 💻 Backend Developer | Java | Kotlin | Spring Boot  
 🛠️ Passionate about building real-world apps  
 📫 Reach me at: fdodevdun@gmail.com  
-🌐 Portfolio: *coming soon*
 
 ---
 
