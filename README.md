@@ -4,7 +4,8 @@ A passionate Software Engineering undergraduate
 
 🎓 Software Engineering Student at IIT  
 💻 Backend Developer | Java | Kotlin | Spring Boot
-🛠️ Passionate about building real-world apps  
+🛠️ Passionate about building real-world applications
+
 📫 Reach me at: fdodevdun@gmail.com  
 
 ---
