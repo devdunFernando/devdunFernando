@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Devdun Fernando!
+# 👋 Hi, I'm Devdun Fernando!
 
 A passionate Software Engineering undergraduate
 
