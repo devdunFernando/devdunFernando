@@ -28,9 +28,10 @@ A passionate Software Engineering undergraduate
 
 <div align="center">
 
-![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devdunFernando&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Devdun's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devdunFernando&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=600)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devdunFernando&theme=radical&hide_border=true&langs_count=10)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devdunFernando&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800)
+
 
 
 
