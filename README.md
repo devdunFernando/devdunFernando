@@ -42,7 +42,7 @@ A passionate Software Engineering undergraduate
 
 ### 📈 My GitHub Activity Graph
 
-[![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devdunFernando&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devdunFernando&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
